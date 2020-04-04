@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-resume",
+  "name": "luciotbc",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
+  "description": "Lucio Charallo Resume",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
+    "url": "git+https://github.com/luciotbc/luciotbc.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Lucio Charallo",
+    "email": "hi@lucio.app"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "prettier": "^1.17.0",
+    "prettier": "^1.19.1",
     "rimraf": "^3.0.2"
   },
   "keywords": [
@@ -44,8 +44,5 @@
     "gatsby-starter-resume"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-resume/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-resume#readme"
+  "homepage": "https://lucio.app"
 }
