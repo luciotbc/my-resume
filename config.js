@@ -66,14 +66,14 @@ module.exports = {
     },
     {
       company_url: "https://appsindicato.org.br",
-      company: "Full Stack Engineer",
+      company: "App Sindicato Dos Trabalhadores Em Educacao Publica Do Parana",
       descriptions: [
         "A syndicate of Workers in Public Education of Paraná which represents more than 50,000 teachers promoting better quality education.",
         "My primary role was developing and maintain the company’s CRM and create integrations with legacy services. This CRM was created with Ruby on Rails and PostgreSQL.",
       ],
       end_date: "January 2017",
       start_date: "July 2016",
-      title: "App Sindicato Dos Trabalhadores Em Educacao Publica Do Parana",
+      title: "Full Stack Engineer",
     },
     {
       company_url: "https://lactec.org.br",
