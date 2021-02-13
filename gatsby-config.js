@@ -6,6 +6,17 @@ module.exports = {
     title: config.siteTitle,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'G-R0PL037PKR',
+        head: true,
+        anonymize: true,
+        respectDNT: true,
+        defer: true,
+        cookieDomain: 'lucio.app',
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
