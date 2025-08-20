@@ -1,0 +1,6 @@
+[build]
+  command = "jekyll build"
+  publish = "_site"
+
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"

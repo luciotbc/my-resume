@@ -1,30 +1,30 @@
-# My Resume
+# home page for my personal website 🏠
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+## Deploy
 
-Create based on [gatsby starter resume](https://anubhavsrivastava.github.io/gatsby-starter-resume/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9815d555-8a05-407a-878c-285c23fe6b59/deploy-status)](https://app.netlify.com/projects/lucio/deploys)
 
-## Screenshot
+- Project: https://lucio.app
+- Netlify: https://app.netlify.com/projects/lucio/deploys
 
-![Screenshot](./src/assets/img/screenshot.png)
+## Development
 
-## Install
+install the dependencies:
 
-Make sure that you have the Gatsby CLI program installed:
-
-```sh
-npm install --global gatsby-cli
+```bash
+bundle install
 ```
 
-Then you can run it by:
+start the server:
 
-```sh
-npm install
-gatsby develop
+```bash
+bundle exec jekyll serve
 ```
 
-### License
+### Theme
 
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
+Theme: https://github.com/piazzai/hacked-jekyll
 
-refer `LICENSE` file in this repository.
+update infos: \_data/json.yml
+update home page: index.md
+update 404 page: 404.md
